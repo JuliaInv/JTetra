@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/cschwarzbach/JTetra.svg?branch=master)](https://travis-ci.org/cschwarzbach/JTetra)
-[![Coverage Status](https://coveralls.io/repos/github/cschwarzbach/JTetra/badge.svg?branch=master)](https://coveralls.io/github/cschwarzbach/JTetra?branch=master)
-[![Build status](https://ci.appveyor.com/api/projects/status/u4gaso4i7kx3iivo/branch/master?svg=true)](https://ci.appveyor.com/project/cschwarzbach/jtetra/branch/master)
+[![Build Status](https://travis-ci.org/JuliaInv/JTetra.svg?branch=master)](https://travis-ci.org/JuliaInv/JTetra)
+[![Coverage Status](https://coveralls.io/repos/github/JuliaInv/JTetra/badge.svg?branch=master)](https://coveralls.io/github/JuliaInv/JTetra?branch=master)
+[![Build status](https://ci.appveyor.com/api/projects/status/dbdcs1u4wv6255r9/branch/master?svg=true)](https://ci.appveyor.com/project/cschwarzbach/jtetra-yqlgs/branch/master)
 
 # JTetra
 Tetrahedral mesh support for jInv
