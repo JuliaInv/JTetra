@@ -19,7 +19,7 @@ A forward modeling example for electromagnetics on a tetrahedral mesh can be fou
 
 In julia type:
 ```
-Pkg.clone("https://github.com/jInv/JTetra.git")
+Pkg.clone("https://github.com/JuliaInv/JTetra.git")
 ```
 
 # Tests
