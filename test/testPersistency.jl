@@ -1,5 +1,3 @@
-using jInv.Mesh
-using jInv.Utils
 using JTetra
 using Base.Test
 
